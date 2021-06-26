@@ -1,3 +1,3 @@
 # notes-app-back-end
 
-Used Hapi, Nanoid, Nodemon, and Eslint
+Using Hapi, Nanoid, Nodemon, and Eslint
